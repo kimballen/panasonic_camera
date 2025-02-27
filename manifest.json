@@ -1,0 +1,11 @@
+{
+  "domain": "panasonic_camera",
+  "name": "Panasonic Camera I/O",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://github.com/yourusername/panasonic_camera",
+  "requirements": ["aiohttp>=3.8.0"],
+  "dependencies": [],
+  "codeowners": ["@yourusername"],
+  "iot_class": "local_polling"
+}
