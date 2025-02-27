@@ -1,4 +1,4 @@
-# Panasonic Camera I/O Integration for Home Assistant
+# Panasonic WV-NW502S Camera I/O Integration for Home Assistant
 
 A custom Home Assistant integration for controlling and monitoring I/O ports on Panasonic network cameras.
 
